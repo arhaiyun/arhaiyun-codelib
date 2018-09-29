@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicOperations.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicOperations_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicOperations_main.iml" group="BasicOperations" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicOperations_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicOperations_test.iml" group="BasicOperations" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModuleArtifactId.iml" filepath="$PROJECT_DIR$/.idea/modules/ModuleArtifactId.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModuleArtifactId_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ModuleArtifactId_main.iml" group="ModuleArtifactId" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModuleArtifactId_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ModuleArtifactId_test.iml" group="ModuleArtifactId" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/arhaiyun-codelib.iml" filepath="$PROJECT_DIR$/.idea/arhaiyun-codelib.iml" />
+    </modules>
+  </component>
+</project>
